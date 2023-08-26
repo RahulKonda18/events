@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.bg {
+  background-color: #64748b;
+  color: white;
+  font-family: 'Roboto';
+}
+.heading {
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 25px;
+  padding-left: 25px;
+}
+.events-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 25px;
+}

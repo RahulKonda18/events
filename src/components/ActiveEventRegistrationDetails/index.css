@@ -1,0 +1,18 @@
+.eve {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #323f4b;
+}
+.button {
+  background-color: #0967d2;
+  padding: 5px;
+  width: 80%;
+  color: white;
+  border: 2px solid #0967d2;
+  border-radius: 5px;
+}
+img {
+  width: 60%;
+}
